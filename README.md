@@ -68,8 +68,7 @@
 
 ## 😀 SUPPORT
 
-- 디스코드 프룻#5761 DM해주세요!
-- 이메일은 main@moonrabbit.ga 이예요!
+- 디스코드 macbook_air DM해주세요!
 
 ## ⛏️ github post
 
