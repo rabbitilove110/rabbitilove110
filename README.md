@@ -1,15 +1,16 @@
 ## 안녕하세요👋 평범한 학생 개발자 프룻이예요!
 
-- 👋 안녕하세요! 디스코드 봇 개발자 프룻이예요!
+- 👋 안녕하세요! Front-End 개발자 프룻이예요!
 - 👀 코딩을 배우고 있어요!
 - 🌱 초보예요..!
 - 💞️ 코딩을 좋아해요!
-- 📫 문의는 Discord 프룻#5761 DM으로 해주세요!
+- 📫 문의는 Discord macbook_air DM으로 해주세요!
 
 ## 🔧 SKILL
 
 ### FRAMEWORK & LANGUAGE
 
+<img src="https://camo.githubusercontent.com/82f71011229c5256ce47b338820996502ea145711119e79dead54b3bbce7fc11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d2532333230323332613f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
@@ -53,6 +54,17 @@
 - 교육정보 개방포털 나이스 오픈 api로 정보를 불러왔어요.<br></br> 현재 개발중 입니다.
 
 [스꿀봇 서포트서버](https://discord.gg/fDM4nVGq)
+
+### Core_Bot
+더 편리한 디스코드 서버관리, 더 편리한 디스코드 사용
+
+- 서버 관리에 중점을 둔 봇이에요!
+- 여러가지 유용 기능을 넣고있어요!<br></br> 현재 개발중 입니다.
+
+[스꿀봇 서포트서버](https://discord.gg/fDM4nVGq)
+
+### 반 대항전
+?!?!?! - 쉿! 비밀이에요! 2023년 12월 31일 공개합니다!
 
 ## 😀 SUPPORT
 
