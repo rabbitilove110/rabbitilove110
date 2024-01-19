@@ -10,7 +10,6 @@
 
 ### FRAMEWORK & LANGUAGE
 
-<img src="https://camo.githubusercontent.com/82f71011229c5256ce47b338820996502ea145711119e79dead54b3bbce7fc11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d2532333230323332613f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
